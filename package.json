@@ -44,7 +44,7 @@
     "fswatcher-child": "^1.0.5",
     "get-port": "^3.2.0",
     "grapheme-breaker": "^0.3.2",
-    "htmlnano": "^0.1.9",
+    "htmlnano": "^2.0.0",
     "is-glob": "^4.0.0",
     "is-url": "^1.2.2",
     "js-yaml": "^3.10.0",
