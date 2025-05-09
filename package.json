@@ -23,7 +23,7 @@
     "@babel/plugin-transform-modules-commonjs": "^7.0.0",
     "@babel/plugin-transform-react-jsx": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.26.10",
     "@babel/template": "^7.0.0",
     "@babel/traverse": "^7.0.0",
     "@babel/types": "^7.0.0",
